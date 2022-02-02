@@ -40,6 +40,11 @@
     "categories": {
       "via": "posts",
       "collection": "category"
+    },
+    "pagetitle": {
+      "type": "string",
+      "required": true,
+      "unique": true
     }
   }
 }
